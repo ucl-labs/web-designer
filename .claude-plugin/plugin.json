@@ -1,0 +1,9 @@
+{
+  "name": "web-designer",
+  "version": "1.0.0",
+  "description": "Figma-to-code guardrails for Next.js + Tailwind v4 + shadcn/ui + Vercel workflows. Enforces best practices, prevents common mistakes, and guides beginners through the design-to-production pipeline.",
+  "author": {
+    "name": "UpClick Labs",
+    "url": "https://github.com/upclicklabs"
+  }
+}
